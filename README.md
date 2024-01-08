@@ -23,6 +23,3 @@ pip install rembg
 - It uses rembg to remove the background of the fetched image and saves the masked image in the 'masked' directory.
 - A background image is fetched and resized to match the dimensions of the original image.
 - The masked image is overlaid onto the new background, and the resulting image is saved in the 'masked' directory as 'background.jpg'.
-
-## Contributors
-This code is an adaptation and may have been modified. Original credits to [emanemair](https://github.com/emanemair)
